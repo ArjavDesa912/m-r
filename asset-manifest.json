@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ArjavDesa912/m-r/static/css/main.309e2eed.chunk.css",
+    "main.js": "/ArjavDesa912/m-r/static/js/main.a91ba5fc.chunk.js",
+    "main.js.map": "/ArjavDesa912/m-r/static/js/main.a91ba5fc.chunk.js.map",
+    "runtime-main.js": "/ArjavDesa912/m-r/static/js/runtime-main.bf50a5bd.js",
+    "runtime-main.js.map": "/ArjavDesa912/m-r/static/js/runtime-main.bf50a5bd.js.map",
+    "static/js/2.8ebdf4f8.chunk.js": "/ArjavDesa912/m-r/static/js/2.8ebdf4f8.chunk.js",
+    "static/js/2.8ebdf4f8.chunk.js.map": "/ArjavDesa912/m-r/static/js/2.8ebdf4f8.chunk.js.map",
+    "index.html": "/ArjavDesa912/m-r/index.html",
+    "precache-manifest.78c976425cfc1daaacd4b4bb8a9ab9b4.js": "/ArjavDesa912/m-r/precache-manifest.78c976425cfc1daaacd4b4bb8a9ab9b4.js",
+    "service-worker.js": "/ArjavDesa912/m-r/service-worker.js",
+    "static/css/main.309e2eed.chunk.css.map": "/ArjavDesa912/m-r/static/css/main.309e2eed.chunk.css.map",
+    "static/js/2.8ebdf4f8.chunk.js.LICENSE.txt": "/ArjavDesa912/m-r/static/js/2.8ebdf4f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf50a5bd.js",
+    "static/js/2.8ebdf4f8.chunk.js",
+    "static/css/main.309e2eed.chunk.css",
+    "static/js/main.a91ba5fc.chunk.js"
+  ]
+}
